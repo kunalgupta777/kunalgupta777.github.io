@@ -3,7 +3,7 @@ intro:
   heading: KUNAL GUPTA
   btn: Download My Resume
 
-services:
+skills:
   heading: Skills
   subheading: I am skilled at juggling, solving a rubik's cube, mimicing others.... lol
   service:
@@ -19,11 +19,11 @@ services:
     - icon: fa fa-lock
       heading: Theoretical Computer Science and Mathematics.
       text: Sample Text
-portfolio:
+projects:
   heading: Projects
   subheading: Have a look at some of the things I made.
 
-about:
+experience:
   heading: Academic and Professional Experience
   subheading: Basically, my career so far!
   timeline:
@@ -48,7 +48,7 @@ about:
   end2: Of Our
   end3: Story!
 
-team:
+connect:
   heading: Now you get to see me!
   subheading: 
   members:
