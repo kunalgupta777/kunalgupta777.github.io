@@ -7,22 +7,22 @@ nav:
     url: '#skills'
   - title: Projects
     url: '#projects'
-  - title: About
-    url: '#about'
-  - title: Team
-    url: '#team'
+  - title: Experience
+    url: '#experience'
+  - title: Connect
+    url: '#connect'
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; Kunal Gupta 2019
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
+    url: '#'
   - icon: fa fa-facebook
-    url: '#'
+    url: 'https://www.facebook.com/iamkunalgupta'
   - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.linkedin.com/in/kunalgupta777'
 
 quicklinks:
   - title: Privacy Policy
