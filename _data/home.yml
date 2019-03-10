@@ -1,29 +1,31 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
+  lead-in: "Hello there! I am"
+  heading: KUNAL GUPTA
+  btn: Download My Resume
 
 services:
-  heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Skills
+  subheading: I am skilled at juggling, solving a rubik's cube, mimicing others.... lol
   service:
     - icon: fa fa-shopping-cart
-      heading: E-Commerce
+      heading: Machine Learning
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
     - icon: fa fa-laptop
-      heading: Responsive Design
+      heading: Computer Vision
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
     - icon: fa fa-lock
-      heading: Web Security
+      heading: Web Development
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-
+    - icon: fa fa-lock
+      heading: Theoretical Computer Science and Mathematics.
+      text: Sample Text
 portfolio:
-  heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Projects
+  subheading: Have a look at some of the things I made.
 
 about:
-  heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Academic and Professional Experience
+  subheading: Basically, my career so far!
   timeline:
     - image: img/about/1.jpg
       date: 2009-2011
@@ -47,33 +49,11 @@ about:
   end3: Story!
 
 team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Now you get to see me!
+  subheading: 
   members:
-    - name: Kay Garland
-      role: Lead Designer
-      img: img/team/1.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-        
-    - name: Larry Parker
-      role: Lead Marketer
-      img: img/team/2.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-    - name: Diana Pertersen
-      role: Lead Developer
+    - name: Kunal Gupta
+      role: Hey! This is website is about me!
       img: img/team/3.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -83,21 +63,12 @@ team:
         - icon: fa fa-linkedin
           url: "#"
 
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"
+  text: My dad says, a true engineer is one who can find solution to problems using the tools no one thinks of!
+  
 
 contact:
-  heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Contact Me
+  subheading: Mama would be so proud! :')
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
