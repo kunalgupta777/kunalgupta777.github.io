@@ -19,6 +19,7 @@ skills:
     - icon: fa fa-lock
       heading: Theoretical Computer Science and Mathematics.
       text: Sample Text
+      
 projects:
   heading: Projects
   subheading: Have a look at some of the things I made.
