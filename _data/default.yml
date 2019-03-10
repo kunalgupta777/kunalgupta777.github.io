@@ -6,11 +6,11 @@ nav:
   - title: Skills
     url: 'skills'
   - title: Projects
-    url: '#projects'
+    url: '#portfolio'
   - title: Experience
-    url: '#experience'
+    url: '#about'
   - title: Connect
-    url: '#connect'
+    url: '#team'
   - title: Contact
     url: '#contact'
 
