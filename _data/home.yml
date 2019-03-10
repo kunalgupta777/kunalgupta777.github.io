@@ -21,11 +21,11 @@ skills:
       heading: Theoretical Computer Science and Mathematics.
       text: Sample Text
       
-projects:
+portfolio:
   heading: Projects
   subheading: Have a look at some of the things I made.
 
-experience:
+about:
   heading: Academic and Professional Experience
   subheading: Basically, my career so far!
   timeline:
@@ -50,7 +50,7 @@ experience:
   end2: Of Our
   end3: Story!
 
-connect:
+team:
   heading: Now you get to see me!
   subheading: 
   members:
