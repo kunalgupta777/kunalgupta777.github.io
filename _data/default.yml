@@ -1,12 +1,12 @@
 brand:
-  name: Start Bootstrap
+  name: Kunal Gupta
 menu-string: Menu
 
 nav:
-  - title: Services
-    url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
+  - title: Skills
+    url: '#skills'
+  - title: Projects
+    url: '#projects'
   - title: About
     url: '#about'
   - title: Team
