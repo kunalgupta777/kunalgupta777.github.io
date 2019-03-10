@@ -4,7 +4,7 @@ menu-string: Menu
 
 nav:
   - title: Skills
-    url: '#skills'
+    url: 'skills'
   - title: Projects
     url: '#projects'
   - title: Experience
