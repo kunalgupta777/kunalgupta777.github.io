@@ -9,3 +9,7 @@ assets_path: ''
 
 collections:
   projects:
+  
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
