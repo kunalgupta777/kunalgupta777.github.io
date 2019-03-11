@@ -10,53 +10,52 @@ services:
    Anyways, here are my core technical skills.
   service:
     - icon: fa fa-shopping-cart
-      heading: Machine Learning
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Machine Learning / Deep Learning
+      text: I have a knowledge of Machine Learning Algorithms, their implementation and useful applications. I have worked on numerous deep learning applications.
     - icon: fa fa-laptop
       heading: Computer Vision
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: I possess working knowledge of Computer Vision concepts. I have made some cool CV projects.
     - icon: fa fa-lock
       heading: Web Development
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: I am skilled in HTML/CSS, Angular 5, REST APIs, Nodejs etc. 
     - icon: fa fa-lock
       heading: Theoretical Computer Science and Mathematics.
-      text: Sample Text
+      text: I am active in competitive programming community and have a knack of solving logical and analytical problems requiring core CS and Mathematical concepts. I also like to study about higher mathematics for fun.
       
 portfolio:
   heading: Projects
-  subheading: Have a look at some of the things I made.
+  subheading: Have a look at some of the stuff I made using my skills.
 
 about:
   heading: Academic and Professional Experience
-  subheading: Basically, my career so far!
+  subheading: What I did all these years being on earth.....:P
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: May - July 2018
+      title: Goldman Sachs - Summer Analyst
+      text: I interned at GS - Bangalore Office. Worked on the development of an application from scratch utilising Angular 5, Dropwizard, and proprietary tools.
     - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: August 2015 - May 2019 ( Expected )
+      title: Higher Education - Netaji Subhas University of Technology (formerly NSIT )
+      text: 80.1 % Aggregate ( Delhi University Degree ). Co-Founded AXIOM - The Philosophical Society of NSIT.
     - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: March - May 2015
+      title: JEE Main and Advanced
+      text: Bagged an All India Rank of 4057 in JEE Advanced out of 117238 candidates. Bagged an All India Rank of 5946 out of 1.3 million candidates.
     - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+      date: 2002-2015
+      title: Adarsh Public School
+      text: I completed my schooling from here. Achieved 95.4% in CBSE class 12th boards and 10.0 CGPA in class 10th. Won numerous accolades throughout.
+  end1: Born
+  end2: 4th of July
+  end3: 1997
 
 team:
-  heading: Now you get to see me!
+  heading: Connect with me on Social Media!
   subheading: 
   members:
     - name: Kunal Gupta
-      role: Hey! This is website is about me!
+      role: My mom says I look cute! :')
       img: img/team/3.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -71,7 +70,7 @@ team:
 
 contact:
   heading: Contact Me
-  subheading: Mama would be so proud! :')
+  subheading: I'd be glad to be in touch.
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
