@@ -61,11 +61,11 @@ team:
       img: img/team/3.jpg
       social-buttons:
         - icon: fa fa-twitter
-          url: "#"
+          url: "https://twitter.com/kunalgupta777"
         - icon: fa fa-facebook
-          url: "#"
+          url: "https://facebook.com/iamkunalgupta"
         - icon: fa fa-linkedin
-          url: "#"
+          url: "https://www.linkedin.com/in/kunalgupta777/"
 
   text: My dad says, a true engineer is one who can find solution to problems using the tools no one thinks of!
   
