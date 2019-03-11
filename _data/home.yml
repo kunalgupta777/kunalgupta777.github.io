@@ -9,7 +9,7 @@ services:
   subheading: I have a wide range of skillset ranging from Juggling, Solving a Rubik's Cube, Playing the Guitar.... 
    Anyways, here are my core technical skills.
   service:
-    - icon: fa fa-brain
+    - icon: fa fa-memory
       heading: Machine Learning / Deep Learning
       text: I have a knowledge of Machine Learning Algorithms, their implementation and useful applications. I have worked on numerous deep learning applications.
     - icon: fa fa-eye
@@ -18,7 +18,7 @@ services:
     - icon: fa fa-html5
       heading: Web Development
       text: I am skilled in HTML/CSS, Angular 5, REST APIs, Nodejs etc. 
-    - icon: fa fa-laptop-code
+    - icon: fa fa-code
       heading: Theoretical Computer Science and Mathematics.
       text: I am active in competitive programming community and have a knack of solving logical and analytical problems requiring core CS and Mathematical concepts. I also like to study about higher mathematics for fun.
       
