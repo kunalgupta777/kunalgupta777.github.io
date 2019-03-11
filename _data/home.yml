@@ -6,7 +6,8 @@ intro:
 
 services:
   heading: Skills
-  subheading: I am skilled at juggling, solving a rubik's cube, mimicing others.... lol
+  subheading: I have a wide range of skillset ranging from Juggling, Solving a Rubik's Cube, Playing the Guitar.... 
+   Anyways, here are my core technical skills.
   service:
     - icon: fa fa-shopping-cart
       heading: Machine Learning
